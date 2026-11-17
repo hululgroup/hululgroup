@@ -29,4 +29,8 @@ Continue with the mobile language switch and enquiry tests in our handover guide
 
 [دليل استلام موقع شركة بالعربية والإنجليزية](https://hulul.group/ar/blog/bilingual-company-website-checklist) · [English handover guide](https://hulul.group/en/blog/bilingual-company-website-checklist)
 
+<p dir="rtl" lang="ar">في موقع شركة ومضة العراق، حافظنا على ترتيب أقسام الشركة والعلامات والتواصل عند التبديل بين العربية والإنجليزية والكردية السورانية. <a href="https://hulul.group/ar/work/wamdat-multilingual-website">اقرأ دراسة الموقع بثلاث لغات</a>.</p>
+
+For an example, Wamdat Al-Iraq’s website keeps the company, brands and contact sections in the same order across Arabic, English and Sorani Kurdish. [Read the trilingual website case study](https://hulul.group/en/work/wamdat-multilingual-website).
+
 [Google’s localized-page guidance](https://developers.google.com/search/docs/specialty/international/localized-versions) · [Google’s canonical URL guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls) · [OpenSEO project](https://github.com/every-app/open-seo)
